@@ -47,3 +47,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 If you have any questions or suggestions, feel free to contact the project maintainer at himanshukumawat13051997@gmail.com
 
 # capstonprojectfinal
+# Entertaimentapp
